@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Nick Theisen"
 title_separator          : "-"
 name                     : &name "Nick Theisen"
-description              : &description "Research associate and PhD student of the active vision group (AGAS) at the University of Koblenz-Landau."
+description              : &description "Research associate and PhD student of the active vision group (AGAS) at the University Koblenz-Landau."
 url                      : https://nickstheisen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nickstheisen.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Nick Theisen"
-  avatar           : "profile.png"
+  avatar           : "nick.jpg"
   bio              : "Research associate and PhD student of the active vision group (AGAS) at the University of Koblenz-Landau."
   location         : "Koblenz, Germany"
   employer         : "University Koblenz-Landau"
