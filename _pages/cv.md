@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -12,89 +12,269 @@ redirect_from:
 Education
 ======
 
-Currently: PhD Student
------
-* Since 08/2018
-* Active Vision Group (AGAS), University Koblenz-Landau
-* Research Focus: Hyperspectral Imaging & Analysis, Machine Learning/Neural Networks
+<table class="cvtable">
+    <colgroup>
+        <col width="20%" />
+        <col width="80%" />
+    </colgroup>
 
-MSc Computer Science
------
-* 04/2015 - 08/2018
-* University Koblenz-Landau 
-* Focus: Mobile Systems Engineering <i>(Computer Vision, Machine Learning, Robotics)</i>
-* Thesis: "Imitation Learning for Robot Manipulation Tasks using Inverse Reinforcement Learning"
+    <thead>
+    <tr class="header">
+        <th>Since 08/2018</th>
+        <th>PhD Student</th> 
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td markdown="span">Institution</td>
+        <td markdown="span">Active Vision Group (AGAS), University Koblenz-Landau</td>
+    </tr>
+    <tr>
+        <td markdown="span">Research Focus</td>
+        <td markdown="span">Hyperspectral Imaging & Analysis, Machine Learning/Neural Networks</td>
+    </tr>
+    <tr>
+        <td markdown="span">Thesis Supervisors</td>
+        <td markdown="span">Prof. Dr.-Ing. Dietrich Paulus (Uni Koblenz-Landau)</td>
+    </tr>
+    </tbody>
 
-BSc Computer Science
------
-* 10/2011 - 03/2015
-* University Koblenz-Landau
-* Minor Subject: Information Systems
-* Thesis: "Bewertung der Echtzeitfähigkeit von Plattformen mittels POSIX-basierter Softwarebibliothek" <i>(engl. Evaluation of Real-time Capabilites of Platforms using a POSIX-based Software Library.)</i>
+    <tr><td markdown="span"></td><td markdown="span"></td></tr>
+
+    <thead>
+    <tr class="header">
+        <th>04/2015 - 08/2018</th>
+        <th>MSc Computer Science</th> 
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td markdown="span">Institution</td>
+        <td markdown="span">University Koblenz-Landau</td>
+    </tr>
+    <tr>
+        <td markdown="span">Focus</td>
+        <td markdown="span">Mobile Systems Engineering <i>(Computer Vision, Machine Learning, Robotics)</i></td>
+    </tr>
+    <tr>
+        <td markdown="span">Thesis Title</td>
+        <td markdown="span">"Imitation Learning for Robot Manipulation Tasks using Inverse Reinforcement Learning"</td>
+    </tr>
+    <tr>
+        <td markdown="span">Thesis Supervisors</td>
+        <td markdown="span"> MSc. Raphael Memmesheimer & Prof. Dr.-Ing. Dietrich Paulus (Uni Koblenz-Landau)</td>
+    </tr>
+
+    <tr><td markdown="span"></td><td markdown="span"></td></tr>
+
+    </tbody>
+
+    <thead>
+    <tr class="header">
+        <th>10/2011 - 03/2015</th>
+        <th>BSc Computer Science</th> 
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td markdown="span">Institution</td>
+        <td markdown="span">University Koblenz-Landau</td>
+    </tr>
+    <tr>
+        <td markdown="span">Minor Subject</td>
+        <td markdown="span">Information Systems</td>
+    </tr>
+    <tr>
+        <td markdown="span">Thesis Title</td>
+        <td markdown="span">"Bewertung der Echtzeitfähigkeit von Plattformen mittels POSIX-basierter Softwarebibliothek" <i>(engl. Evaluation of Real-time Capabilites of Platforms using a POSIX-based Software Library.)</i></td>
+    </tr>
+    <tr>
+        <td markdown="span">Thesis Supervisors</td>
+        <td markdown="span"> Dipl.-Inform. Andreas Stahlhofen  & Prof. Dr. Dieter Zöbel (Uni Koblenz-Landau)</td>
+    </tr>
+
+    </tbody>
+</table>
 
 Work experience
 ======
+<table class="cvtable">
+    <colgroup>
+        <col width="20%" />
+        <col width="80%" />
+    </colgroup>
 
-Research Assistant (Koblenz, DE)
------
-* Since 10/2021
-* Institute for Web Science and Technologies (WeST), University Koblenz-Landau
-* Duties included:
-    * Coordination of MSc Web and Data Science programme
-    * Conception and coordination of tutorials in Computer Science undergraduate programme
+    <thead>
+    <tr class="header">
+        <th>Since 10/2021</th>
+        <th>Research Assistant</th> 
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td markdown="span">Institution</td>
+        <td markdown="span">Institute for Web and Data Science (WeST), University Koblenz-Landau</td>
+    </tr>
+    <tr>
+        <td markdown="span">Duties included</td>
+        <td markdown="span">
+        {::nomarkdown}<ul>
+            <li>Coordination of MSc Web and Data Science Programme</li>
+            <li>Conception and Coordination of Tutorials in Computer Science Undergraduate Programme</li>
+        </ul>{:/}
+        </td>
+    </tr>
+    </tbody>
 
-Research Assistant (Koblenz, DE)
------
-* 12/2020 - 09/2021
-* Active Vision Group (AGAS), University Koblenz-Landau
-* Duties included:
-    * Conception and coordination of tutorials in Computer Visualistics postgraduate programme
-    * Conception and coordination of postgraduate seminars about hyperspectral image analysis
-    * Writing of research proposals for third-party funding
+    <tr><td markdown="span"></td><td markdown="span"></td></tr>
 
-Research Assistant (Koblenz, DE)
------
-* 08/2018 - 11/2020
-* Active Vision Group (AGAS), University Koblenz-Landau,
-* Duties included:
-    * Project lead and work in research project in cooperation with german military
-    * Conception and coordination of tutorials in Computer Visualistics postgraduate programme
-    * Conception and coordination of undergraduate seminars about hyperspectral image analysis
-* Project focus and goals:
-    * Enhancement of scene perception in unstructured, outdoor environment
-    * Sensor-based localization and mapping
-    * Information extraction from hyperspectral images
-    * Sensordata fusion
+    <thead>
+    <tr class="header">
+        <th>12/2020 - 09/2021</th>
+        <th>Research Assistant</th> 
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td markdown="span">Institution</td>
+        <td markdown="span">Active Vision Group (AGAS), University Koblenz-Landau</td>
+    </tr>
+    <tr>
+        <td markdown="span">Duties included</td>
+        <td markdown="span">
+        {::nomarkdown}
+        <ul>
+        <li>Conception and Coordination of Tutorials in Computer Visualistics Postgraduate Programme</li>
+        <li>Conception and Coordination of Postgraduate Seminars about Hyperspectral Image Analysis</li>
+        <li>Writing of Research Proposals for Third-Party Funding</li>  
+        </ul>
+        {:/}
+        </td>
+    </tr>
 
-Student Assistant (Mülheim-Kärlich, DE)
------
-* 06/2015 - 08/2018
-* R&D Department, TOMRA Sorting Solutions
-* Duties included:
-    * Evaluation of prototypical sensors
-    * Conception, execution and evaluation of experiments for alloy discrimination
-    * Implementation of software for prototypical sensors and actuators
+    <tr><td markdown="span"></td><td markdown="span"></td></tr>
+
+    </tbody>
+
+    <thead>
+    <tr class="header">
+        <th>08/2018 - 11/2020</th>
+        <th>Research Assistant</th> 
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td markdown="span">Institution</td>
+        <td markdown="span">Active Vision Group (AGAS), University Koblenz-Landau</td>
+    </tr>
+    <tr>
+        <td markdown="span">Duties includes</td>
+        <td markdown="span">
+        {::nomarkdown}
+        <ul>
+        <li>Project Lead and Work Research Project in Cooperation with German Military</li>
+        <li>Conception and Coordination of Tutorials in Computer Visualistics Postgraduate Programme</li>
+        <li>Conception and Coordination of Undergraduate Seminars about Hyperspectral Image Analysis</li>
+        </ul>
+        {:/}
+        </td>
+    </tr>
+    <tr>
+        <td markdown="span">Project Focus and Goals</td>
+        <td markdown="span">
+        {::nomarkdown}
+        <ul>
+        <li>Enhancement of Scene Perception in Unstructured Outdoor environments</li>
+        <li>Sensorbased Localization and Mapping (SLAM)</li>
+        <li>Information Extraction from Hyperspectral Images</li>
+        <li>Sensor Calibration & Data Fusion</li>
+        </ul>
+        {:/}
+        </td>
+    </tr>
+    <tr><td markdown="span"></td><td markdown="span"></td></tr>
+
+    </tbody>
+
+    <thead>
+    <tr class="header">
+        <th>06/2015 - 08/2018</th>
+        <th>Student Assistant</th> 
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td markdown="span">Institution</td>
+        <td markdown="span">R&D Department, TOMRA Sorting Solutions, Mühlheim-Kärlich</td>
+    </tr>
+    <tr>
+        <td markdown="span">Duties includes</td>
+        <td markdown="span">
+        {::nomarkdown}
+        <ul>
+        <li>Evaluation of Prototypical Sensors</li>
+        <li>Execution and Evaluation of Experiments for Metal Discrimination</li>
+        <li>Implementation of Software for Prototypical Sensors and Actuators</li>
+        </ul>
+        {:/}
+        </td>
+    </tr>
+    </tbody>
+</table>
 
 Awards
 =====
 
-1st Place in RoboCup@Home German Open 2018 (Magdeburg, DE)
------
-* 04/2018
-* Focus: Domestic service robotics
-* Team: homer@UniKoblenz
+<table class="cvtable">
+    <colgroup>
+        <col width="20%" />
+        <col width="80%" />
+    </colgroup>
 
-2nd Place in DJI RoboMasters Ground Robot Technical Challenge 2017 (Shenzhen, CHN)
------
-* 08/2018
-* Focus: Autonomous robot navigation and object manipulation in complex environments
-* Team: University Koblenz-Landau
-  
+    <thead>
+    <tr class="header">
+        <th>04/2018</th>
+        <th>1st Place in RoboCup@Home German Open 2018 (Magdeburg, DE)</th> 
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td markdown="span">Team</td>
+        <td markdown="span">homer@UniKoblenz</td>
+    </tr>
+    <tr>
+        <td markdown="span">Focus</td>
+        <td markdown="span">Domestic Service Robotics</td>
+    </tr>
+    </tbody>
+
+    <tr><td markdown="span"></td><td markdown="span"></td></tr>
+
+    <thead>
+    <tr class="header">
+        <th>08/2018</th>
+        <th>2nd Place in DJI RoboMasters Ground Robot Technical Challenge 2017 (Shenzhen, CHN)</th> 
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td markdown="span">Team</td>
+        <td markdown="span">University Koblenz-Landau</td>
+    </tr>
+    <tr>
+        <td markdown="span">Focus</td>
+        <td markdown="span">Autonomous Robot Navigation and Object Manipulation in Complex Environments</td>
+    </tr>
+    </tbody>
+</table>
+
 <!--
 Skills
 ======
 t.b.a.
 -->
+
+---
 
 Publications
 ======

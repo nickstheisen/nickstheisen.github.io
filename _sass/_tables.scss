@@ -36,3 +36,52 @@ td {
 tr, td, th {
   vertical-align: middle;
 }
+
+/* ==========================================================================
+   TABLES in CV
+   ========================================================================== */
+
+table.cvtable {
+  margin-bottom: 1em;
+  width: 100%;
+  font-family: $global-font-family;
+  font-size: $type-size-6;
+  border-collapse: collapse;
+  border: 0;
+
+  & + table {
+    margin-top: 1em;
+  }
+}
+
+table.cvtable thead {
+  background-color: $lighter-gray;
+  border-bottom: 0;
+}
+
+table.cvtable th {
+  padding: 0.5em;
+  font-weight: bold;
+  text-align: left;
+  border-right: 0;
+}
+
+table.cvtable td {
+  padding: 0.5em;
+  border-bottom: 0;
+  border-right: 0;
+}
+
+table.cvtable tr, td, th {
+  vertical-align: top;
+}
+
+table.cvtable th:first-of-type {
+    text-align: right;
+    border-right:  1px solid $light-gray;
+}
+
+table.cvtable td:first-of-type {
+    text-align: right;
+    border-right:  1px solid $light-gray;
+}
